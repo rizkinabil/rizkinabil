@@ -16,12 +16,17 @@
 <h1 class="techstack">My TechStack</h1>
 <img src="./assets/tools stack_nobg.png">
 <h2>Let's Connect</h2>
-<div class="contact-parent">
+<!-- <div class="contact-parent">
     <button class="linkedin"><a href="www.linkedin.com/in/rizki-nabil-aufa-65297b1a1" target="_blank">LinkedIn</a></button>
     <button class="instagram"><a href="https://www.instagram.com/rizkinbil/" target="_blank">Instagram</button>
     <button class="twitter"><a href="https://twitter.com/rizkinabil_" target="_blank">Twitter</button>
     <button class="portofolio"><a href="https://rizkinabil.github.io/" target="_blank">My Portofolio</button>
-</div>
+</div> -->
+
+<a href="https://www.linkedin.com/in/rizki-nabil-aufa-65297b1a1/"><img src="./assets/linkedinlogo.png" width="70px"></a>
+<a href="https://www.instagram.com/rizkinbil/"><img src="./assets/instagramlogo.png" width="70px"></a>
+<a href="https://rizkinabil.github.io/"><img src="./assets/fav-icon_logo-brand.png" width="70px"></a>
+<a href="https://twitter.com/rizkinabil_"><img src="./assets/twitterlogo.png" width="70px"></a>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fe5f0c" fill-opacity="1" d="M0,96L9.2,128C18.5,160,37,224,55,218.7C73.8,213,92,139,111,122.7C129.2,107,148,149,166,176C184.6,203,203,213,222,224C240,235,258,245,277,250.7C295.4,256,314,256,332,261.3C350.8,267,369,277,388,282.7C406.2,288,425,288,443,293.3C461.5,299,480,309,498,304C516.9,299,535,277,554,234.7C572.3,192,591,128,609,133.3C627.7,139,646,213,665,213.3C683.1,213,702,139,720,112C738.5,85,757,107,775,122.7C793.8,139,812,149,831,154.7C849.2,160,868,160,886,165.3C904.6,171,923,181,942,176C960,171,978,149,997,170.7C1015.4,192,1034,256,1052,266.7C1070.8,277,1089,235,1108,208C1126.2,181,1145,171,1163,165.3C1181.5,160,1200,160,1218,149.3C1236.9,139,1255,117,1274,117.3C1292.3,117,1311,139,1329,170.7C1347.7,203,1366,245,1385,224C1403.1,203,1422,117,1431,74.7L1440,32L1440,320L1430.8,320C1421.5,320,1403,320,1385,320C1366.2,320,1348,320,1329,320C1310.8,320,1292,320,1274,320C1255.4,320,1237,320,1218,320C1200,320,1182,320,1163,320C1144.6,320,1126,320,1108,320C1089.2,320,1071,320,1052,320C1033.8,320,1015,320,997,320C978.5,320,960,320,942,320C923.1,320,905,320,886,320C867.7,320,849,320,831,320C812.3,320,794,320,775,320C756.9,320,738,320,720,320C701.5,320,683,320,665,320C646.2,320,628,320,609,320C590.8,320,572,320,554,320C535.4,320,517,320,498,320C480,320,462,320,443,320C424.6,320,406,320,388,320C369.2,320,351,320,332,320C313.8,320,295,320,277,320C258.5,320,240,320,222,320C203.1,320,185,320,166,320C147.7,320,129,320,111,320C92.3,320,74,320,55,320C36.9,320,18,320,9,320L0,320Z"></path></svg>
 
