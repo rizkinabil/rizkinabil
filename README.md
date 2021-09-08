@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<style>
+<!-- <style>
     @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Heebo&display=swap');
 
     *{
@@ -75,5 +75,5 @@ You can click the Preview link to take a look at your changes.
         justify-content: space-around
     }
     
-</style>
+</style> -->
 
