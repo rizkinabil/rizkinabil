@@ -7,7 +7,7 @@
 
 
 
-- 💻 Interested in Web Development and software engineering </span>
+- 💻 Interested in Web Development and Data Science </span>
 - 🌱 Currently study Javascript and everything about web development
 - 🗓️ Goals: make a fullstack web by my self and willing to contribute more in open source projects
 
