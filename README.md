@@ -1,12 +1,9 @@
-<p align="center">
-<img width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<p/>
-<hr></hr>
-
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rizki Nabil Aufa </h2>
 <h4 align="center">Software Engineer | Web Developer | Long-life Learner</h4>
+<p align="center">
+<img width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <hr></hr>
+<p/>
 
 <p align='justify'>
 Focused on writing clean and efficient in code. So it can be useful in functional, powerful in performance, and beautiful in design.
