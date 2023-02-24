@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rizki Nabil Aufa </h2>
 <h4 align="center">Software Engineer | Web Developer | Long-life Learner</h4>
 <p align="center">
-<img width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img width=250px height=150px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFmMmI4MTM5Njk4NzY2ODE0NTljMWUyOWQ0ZGU3ZDg4NDZmZmU1MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 <hr></hr>
 <p/>
 
