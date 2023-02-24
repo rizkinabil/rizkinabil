@@ -1,5 +1,7 @@
-<div class="wrapper">
-<img style="margin-left: auto; margin-right: auto; display: block" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<p align="center">
+<img width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<p/>
 <hr></hr>
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rizki Nabil Aufa </h2>
@@ -27,9 +29,7 @@ Focused on writing clean and efficient in code. So it can be useful in functiona
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
-<br/>
 <br/>
 <br/>
 
@@ -45,4 +45,3 @@ rizkinabil/rizkinabil is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-</div>
